@@ -7,4 +7,4 @@ start
 		output: #json;
 		GET: '/chain' -> [self chain];
 		output: #json;
-		start
+		start.

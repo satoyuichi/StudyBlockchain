@@ -10,4 +10,4 @@ newBlock: aProof previousHash: aPreviousHash
 		at: #previous_hash put: aPreviousHash.
 	currentTransactions := LinkedList new.
 	chain add: block.
-	^ block
+	^ block.

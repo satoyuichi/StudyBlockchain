@@ -9,4 +9,4 @@ createTransaction
 				ifFalse: [ TeaResponse badRequest body: 'Missing values' ] ].
 	index := blockChain newTransaction: json.
 	TeaResponse ok
-		body: {(#message -> ('Transaction will be added to Block ' , index asString))} asDictionary ]
+		body: {(#message -> ('Transaction will be added to Block ' , index asString))} asDictionary ].
