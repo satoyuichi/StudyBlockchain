@@ -7,4 +7,4 @@ newTransaction: aSender recipient: aRecipient amount: aAmount
 		at: #recipient put: aRecipient;
 		at: #amount put: aAmount.
 	currentTransactions add: json.
-	^ (self lastBlock at: #index) + 1.
+	^ (self lastBlock at: #index) + 1

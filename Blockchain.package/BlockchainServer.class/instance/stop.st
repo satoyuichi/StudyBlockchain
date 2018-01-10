@@ -1,4 +1,3 @@
 server handling
 stop
-	Teapot stopAll.
-	
+	Teapot stopAll

@@ -1,3 +1,3 @@
 as yet unclassified
 chain
-	^chain.
+	^ chain

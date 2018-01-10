@@ -5,4 +5,4 @@ chain
 	response
 		at: #chain put: blockChain chain;
 		at: #length put: blockChain chain size.
-	^ response.
+	^ response
