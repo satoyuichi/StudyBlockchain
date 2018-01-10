@@ -1,0 +1,16 @@
+{
+	"category" : "Blockchain",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"teapot",
+		"blockChain",
+		"nodeIdentifier" ],
+	"name" : "BlockchainServer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

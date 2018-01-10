@@ -1,0 +1,14 @@
+{
+	"category" : "Blockchain-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BlockchainTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

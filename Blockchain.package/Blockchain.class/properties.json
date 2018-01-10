@@ -1,0 +1,17 @@
+{
+	"category" : "Blockchain",
+	"classinstvars" : [
+		"chain",
+		"chainTransaction" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"chain",
+		"currentTransactions",
+		"chainTransaction" ],
+	"name" : "Blockchain",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
